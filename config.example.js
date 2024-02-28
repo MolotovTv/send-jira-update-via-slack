@@ -1,0 +1,13 @@
+/**
+ * SLACK CONFIG
+ */
+const SLACK_TOKEN = 'SLACK_TOKEN'
+const SLACK_CHANNEL_ID = 'SLACK CHANNEL ID'
+
+/**
+ * JIRA CONFIG
+ */
+const JIRA_USER_MAIL = 'test@fubo.tv'
+const JIRA_TOKEN = 'JIRA_TOKEN'
+
+module.exports = { JIRA_TOKEN, JIRA_USER_MAIL, SLACK_CHANNEL_ID, SLACK_TOKEN }
